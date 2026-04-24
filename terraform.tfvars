@@ -1,6 +1,6 @@
 insane = {
-    kick78 = "south india"
-    kick798 = "southindia"
+    kick782 = "south india"
+    kick798 = "south india"
     kick555 = "central us"
 }
 
