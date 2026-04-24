@@ -1,4 +1,4 @@
 variable "insane" {
-  type = set(string)
+  type = map(string)
 
 }
