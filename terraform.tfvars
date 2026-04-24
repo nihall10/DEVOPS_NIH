@@ -1,0 +1,1 @@
+insane = ["batman11", "superman12"]
